@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Ergotropy_thesis.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: alpha.bst
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+Database file #1: ergo_thesis_bib.bib
+Repeated entry---line 389 of file ergo_thesis_bib.bib
+ : @article{PhysRevA.66.032110
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 648 of file ergo_thesis_bib.bib
+ : @book{Huang_1987
+ :                 ,
+I'm skipping whatever remains of this entry
+Warning--to sort, need author, editor, or key in Huang_1987
+Warning--empty author and editor in Huang_1987
+Warning--empty title in Huang_1987
+Warning--empty publisher in Huang_1987
+Warning--empty year in Huang_1987
+You've used 40 entries,
+            2543 wiz_defined-function locations,
+            817 strings with 10776 characters,
+and the built_in function-call counts, 16133 in all, are:
+= -- 1543
+> -- 916
+< -- 8
++ -- 330
+- -- 325
+* -- 1297
+:= -- 2752
+add.period$ -- 116
+call.type$ -- 40
+change.case$ -- 268
+chr.to.int$ -- 39
+cite$ -- 46
+duplicate$ -- 563
+empty$ -- 1101
+format.name$ -- 367
+if$ -- 3169
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 46
+newline$ -- 199
+num.names$ -- 117
+pop$ -- 245
+preamble$ -- 1
+purify$ -- 315
+quote$ -- 0
+skip$ -- 469
+stack$ -- 0
+substring$ -- 830
+swap$ -- 40
+text.length$ -- 8
+text.prefix$ -- 7
+top$ -- 0
+type$ -- 280
+warning$ -- 5
+while$ -- 142
+width$ -- 43
+write$ -- 504
+(There were 2 error messages)

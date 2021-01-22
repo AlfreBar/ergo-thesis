@@ -1,0 +1,33 @@
+\contentsline {chapter}{\numberline {1}Introduction}{5}%
+\contentsline {chapter}{\numberline {2}Ergotropy and related measures}{7}%
+\contentsline {section}{\numberline {2.1}Ergotropy}{7}%
+\contentsline {section}{\numberline {2.2}Max-Ergotropy}{10}%
+\contentsline {section}{\numberline {2.3}Entanglement Measures}{11}%
+\contentsline {subsection}{\numberline {2.3.1}Entanglement Entropies}{11}%
+\contentsline {subsection}{\numberline {2.3.2}Concurrence}{13}%
+\contentsline {chapter}{\numberline {3}Quantum Phase Transitions}{15}%
+\contentsline {section}{\numberline {3.1}XY model}{16}%
+\contentsline {chapter}{\numberline {4}Analitical Calculations for the XY model}{19}%
+\contentsline {section}{\numberline {4.1}One site}{20}%
+\contentsline {subsection}{\numberline {4.1.1}Eigenvalues}{20}%
+\contentsline {subsection}{\numberline {4.1.2}Reduced Density Matrix}{21}%
+\contentsline {subsection}{\numberline {4.1.3}Ergotropy}{22}%
+\contentsline {subsection}{\numberline {4.1.4}Max-Ergotropy}{22}%
+\contentsline {subsection}{\numberline {4.1.5}Graphs}{23}%
+\contentsline {section}{\numberline {4.2}Two sites}{25}%
+\contentsline {subsection}{\numberline {4.2.1}Eigenvalues}{25}%
+\contentsline {subsection}{\numberline {4.2.2}Reduced Density Matrix}{25}%
+\contentsline {subsection}{\numberline {4.2.3}Ergotropy}{27}%
+\contentsline {subsection}{\numberline {4.2.4}Max-Ergotropy}{29}%
+\contentsline {subsection}{\numberline {4.2.5}Graphs}{29}%
+\contentsline {section}{\numberline {4.3}Two distant sites}{32}%
+\contentsline {subsection}{\numberline {4.3.1}Eigenvalues}{32}%
+\contentsline {subsection}{\numberline {4.3.2}Reduced Density Matrix (difficult)}{32}%
+\contentsline {subsection}{\numberline {4.3.3}Max-Ergotropy}{32}%
+\contentsline {section}{\numberline {4.4}More than two sites }{33}%
+\contentsline {subsection}{\numberline {4.4.1}Graphs}{33}%
+\contentsline {chapter}{\numberline {5}Numerical Simulations}{41}%
+\contentsline {section}{\numberline {5.1}Preserved Symmetry}{41}%
+\contentsline {section}{\numberline {5.2}Broken Symmetry}{43}%
+\contentsline {chapter}{\numberline {6}Conclusions}{47}%
+\contentsline {chapter}{\numberline {A}Correlation Matrix derivation}{49}%

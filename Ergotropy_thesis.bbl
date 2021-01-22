@@ -1,0 +1,219 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{GRMAR{\etalchar{+}}16}
+
+\bibitem[ABN04]{allahverdyan2004maximal}
+A.~E. Allahverdyan, R.~Balian, and Th.~M. Nieuwenhuizen.
+\newblock Maximal work extraction from quantum systems, 2004.
+
+\bibitem[AF13]{PhysRevE.87.042123}
+Robert Alicki and Mark Fannes.
+\newblock Entanglement boost for extractable work from ensembles of quantum
+  batteries.
+\newblock {\em Phys. Rev. E}, 87:042123, Apr 2013.
+
+\bibitem[AFOV08]{RevModPhys.80.517}
+Luigi Amico, Rosario Fazio, Andreas Osterloh, and Vlatko Vedral.
+\newblock Entanglement in many-body systems.
+\newblock {\em Rev. Mod. Phys.}, 80:517--576, May 2008.
+
+\bibitem[AGP19]{PhysRevA.99.052320}
+Mir Alimuddin, Tamal Guha, and Preeti Parashar.
+\newblock Bound on ergotropic gap for bipartite separable states.
+\newblock {\em Phys. Rev. A}, 99:052320, May 2019.
+
+\bibitem[AKM{\etalchar{+}}19]{PhysRevB.99.205437}
+Gian~Marcello Andolina, Maximilian Keck, Andrea Mari, Vittorio Giovannetti, and
+  Marco Polini.
+\newblock Quantum versus classical many-body batteries.
+\newblock {\em Phys. Rev. B}, 99:205437, May 2019.
+
+\bibitem[BGBE10]{Baumann2010}
+Kristian Baumann, Christine Guerlin, Ferdinand Brennecke, and Tilman Esslinger.
+\newblock Dicke quantum phase transition with a superfluid gas in an optical
+  cavity.
+\newblock {\em Nature}, 464(7293):1301--1306, April 2010.
+
+\bibitem[BM71a]{barouch3}
+Eytan Barouch and Barry~M. McCoy.
+\newblock Statistical mechanics of the $\mathrm{XY}$ model. iii.
+\newblock {\em Phys. Rev. A}, 3:2137--2140, Jun 1971.
+
+\bibitem[BM71b]{barouch2}
+Eytan Barouch and Barry~M. McCoy.
+\newblock Statistical mechanics of the $xy$ model. ii. spin-correlation
+  functions.
+\newblock {\em Phys. Rev. A}, 3:786--804, Feb 1971.
+
+\bibitem[BMD70]{barouch1}
+Eytan Barouch, Barry~M. McCoy, and Max Dresden.
+\newblock Statistical mechanics of the $\mathrm{XY}$ model. i.
+\newblock {\em Phys. Rev. A}, 2:1075--1092, Sep 1970.
+
+\bibitem[DC19]{deffner2019quantum}
+Sebastian Deffner and Steve Campbell.
+\newblock Quantum thermodynamics: An introduction to the thermodynamics of
+  quantum information, 2019.
+
+\bibitem[DCS18]{De_Chiara_2018}
+Gabriele De~Chiara and Anna Sanpera.
+\newblock Genuine quantum correlations in quantum many-body systems: a review
+  of recent progress.
+\newblock {\em Reports on Progress in Physics}, 81(7):074002, Jun 2018.
+
+\bibitem[FCA{\etalchar{+}}14]{Franchini_2014}
+Fabio Franchini, Jian Cui, Luigi Amico, Heng Fan, Mile Gu, Vladimir Korepin,
+  Leong~Chuan Kwek, and Vlatko Vedral.
+\newblock Local convertibility and the quantum simulation of edge states in
+  many-body systems.
+\newblock {\em Physical Review X}, 4(4), Nov 2014.
+
+\bibitem[FFIP08]{PhysRevA.78.052302}
+P.~Facchi, G.~Florio, C.~Invernizzi, and S.~Pascazio.
+\newblock Entanglement of two blocks of spins in the critical ising model.
+\newblock {\em Phys. Rev. A}, 78:052302, Nov 2008.
+
+\bibitem[FGPP17]{Francica2017}
+Gianluca Francica, John Goold, Francesco Plastina, and Mauro Paternostro.
+\newblock Daemonic ergotropy: enhanced work extraction from quantum
+  correlations.
+\newblock {\em npj Quantum Information}, 3(1), March 2017.
+
+\bibitem[Fra17]{Franchini_2017}
+Fabio Franchini.
+\newblock An introduction to integrable techniques for one-dimensional quantum
+  systems.
+\newblock {\em Lecture Notes in Physics}, 2017.
+
+\bibitem[Gan07]{Xiao:803748}
+Wen~Xiao Gang.
+\newblock {\em {Quantum field theory of many-body systems: from the origin of
+  sound to an origin of light and electrons}}.
+\newblock Oxford University Press, Oxford, 2007.
+
+\bibitem[GMM10]{Gemmer2010}
+Jochen Gemmer, M.~Michel, and G\"{u}nter Mahler.
+\newblock {\em Quantum Thermodynamics}.
+\newblock Springer Berlin Heidelberg, 2010.
+
+\bibitem[Gol92]{Goldenfeld_1992}
+Nigel Goldenfeld.
+\newblock {\em Lectures on phase transitions and the renormalization group}.
+\newblock Frontiers in physics 85. Addison-Wesley, 1992.
+
+\bibitem[GRMAR{\etalchar{+}}16]{PhysRevB.93.035441}
+F.~J. G\'omez-Ruiz, J.~J. Mendoza-Arenas, F.~J. Rodr\'{\i}guez, C.~Tejedor, and
+  L.~Quiroga.
+\newblock Quantum phase transitions detected by a local probe using time
+  correlations and violations of leggett-garg inequalities.
+\newblock {\em Phys. Rev. B}, 93:035441, Jan 2016.
+
+\bibitem[HT13]{harrell2013course}
+E.M. Harrell and W.~Thirring.
+\newblock {\em A Course in Mathematical Physics: Volume 4: Quantum Mechanics of
+  Large Systems}.
+\newblock Springer Vienna, 2013.
+
+\bibitem[Hua]{Huang_1987}
+
+
+\bibitem[Kat62]{PhysRev.127.1508}
+Shigetoshi Katsura.
+\newblock Statistical mechanics of the anisotropic linear heisenberg model.
+\newblock {\em Phys. Rev.}, 127:1508--1518, Sep 1962.
+
+\bibitem[KFIT17]{PhysRevX.7.031044}
+Jan Klaers, Stefan Faelt, Atac Imamoglu, and Emre Togan.
+\newblock Squeezed thermal reservoirs as a resource for a nanomechanical engine
+  beyond the carnot limit.
+\newblock {\em Phys. Rev. X}, 7:031044, Sep 2017.
+
+\bibitem[LR09]{Latorre_2009}
+J~I Latorre and A~Riera.
+\newblock A short review on entanglement in quantum spin systems.
+\newblock {\em Journal of Physics A: Mathematical and Theoretical},
+  42(50):504002, Dec 2009.
+
+\bibitem[LRV03]{latorre2003ground}
+J.~I. Latorre, E.~Rico, and G.~Vidal.
+\newblock Ground state entanglement in quantum spin chains, 2003.
+
+\bibitem[LSM61]{LIEB1961407}
+Elliott Lieb, Theodore Schultz, and Daniel Mattis.
+\newblock Two soluble models of an antiferromagnetic chain.
+\newblock {\em Annals of Physics}, 16(3):407 -- 466, 1961.
+
+\bibitem[MOA11]{marshall11}
+Albert~W. Marshall, Ingram Olkin, and Barry~C. Arnold.
+\newblock {\em Inequalities: Theory of Majorization and its Applications},
+  volume 143.
+\newblock Springer, second edition, 2011.
+
+\bibitem[MSS10]{PhysRevA.81.032305}
+Sarah Mostame, Gernot Schaller, and Ralf Sch\"utzhold.
+\newblock Decoherence in a dynamical quantum phase transition.
+\newblock {\em Phys. Rev. A}, 81:032305, Mar 2010.
+
+\bibitem[NC11]{NielsChuang}
+Michael~A. Nielsen and Isaac~L. Chuang.
+\newblock {\em Quantum Computation and Quantum Information: 10th Anniversary
+  Edition}.
+\newblock Cambridge University Press, USA, 10th edition, 2011.
+
+\bibitem[OAFF02]{Osterloh2002}
+A.~Osterloh, Luigi Amico, G.~Falci, and Rosario Fazio.
+\newblock Scaling of entanglement close to a quantum phase transition.
+\newblock {\em Nature}, 416(6881):608--610, Apr 2002.
+
+\bibitem[ON02]{PhysRevA.66.032110}
+Tobias~J. Osborne and Michael~A. Nielsen.
+\newblock Entanglement in a simple quantum phase transition.
+\newblock {\em Phys. Rev. A}, 66:032110, Sep 2002.
+
+\bibitem[PW78]{pusz1978}
+W.~Pusz and S.~L. Woronowicz.
+\newblock Passive states and kms states for general quantum systems.
+\newblock {\em Comm. Math. Phys.}, 58(3):273--290, 1978.
+
+\bibitem[RDT{\etalchar{+}}16]{Rossnagel_2016}
+J.~Rossnagel, S.~T. Dawkins, K.~N. Tolazzi, O.~Abah, E.~Lutz, F.~Schmidt-Kaler,
+  and K.~Singer.
+\newblock A single-atom heat engine.
+\newblock {\em Science}, 352(6283):325–329, Apr 2016.
+
+\bibitem[Sac11]{sachdev_2011}
+Subir Sachdev.
+\newblock {\em Quantum Phase Transitions}.
+\newblock Cambridge University Press, 2 edition, 2011.
+
+\bibitem[SZAW03]{Scully862}
+Marlan~O. Scully, M.~Suhail Zubairy, Girish~S. Agarwal, and Herbert Walther.
+\newblock Extracting work from a single heat bath via vanishing quantum
+  coherence.
+\newblock {\em Science}, 299(5608):862--864, 2003.
+
+\bibitem[TRHA11]{Tomasello_2011}
+B.~Tomasello, D.~Rossini, A.~Hamma, and L.~Amico.
+\newblock Ground-state factorization and correlations with broken symmetry.
+\newblock {\em {EPL} (Europhysics Letters)}, 96(2):27002, sep 2011.
+
+\bibitem[Voj03]{Vojta_2003}
+Matthias Vojta.
+\newblock Quantum phase transitions.
+\newblock {\em Reports on Progress in Physics}, 66(12):2069–2110, Nov 2003.
+
+\bibitem[Wil13]{wilde_2013}
+Mark~M. Wilde.
+\newblock {\em Quantum Information Theory}.
+\newblock Cambridge University Press, 2013.
+
+\bibitem[WSL04]{PhysRevLett.93.250404}
+L.-A. Wu, M.~S. Sarandy, and D.~A. Lidar.
+\newblock Quantum phase transitions and bipartite entanglement.
+\newblock {\em Phys. Rev. Lett.}, 93:250404, Dec 2004.
+
+\bibitem[ZCZW19]{Zeng2019}
+Bei Zeng, Xie Chen, Duan-Lu Zhou, and Xiao-Gang Wen.
+\newblock {\em Quantum Information Meets Quantum Matter}.
+\newblock Springer New York, 2019.
+
+\end{thebibliography}

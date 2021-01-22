@@ -1,0 +1,143 @@
+\documentclass[12pt,a4paper]{book}
+\usepackage[utf8]{inputenc}
+%\usepackage[T1]{fontenc}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{physics}
+\usepackage{cite}
+\usepackage{caption}
+\usepackage{subcaption}
+%\usepackage{hyperref}
+\usepackage{comment}
+\usepackage{epsfig}
+\usepackage{latexsym}
+\usepackage{color} 
+\usepackage{todonotes}
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[section]
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+
+\begin{document}
+	JUNK \\
+	
+
+	For $\lambda \rightarrow 0 $ : 
+	\begin{equation}
+		\begin{array}{l}
+			g_{l}=-\left(\frac{1+\gamma}{2} L_{l+1}+\frac{1-\gamma}{2} L_{l-1}\right) \quad l \in \text { odd } \\
+			g_{l}=0 \quad l \in \text { even }
+		\end{array}
+	\end{equation}
+	where:
+	\begin{equation}
+		L_{l}=\frac{2}{\pi} \int_{0}^{\pi / 2} d \phi \frac{\cos \phi l}{\sqrt{\cos ^{2} \phi+\gamma^{2} \sin ^{2} \phi}}
+	\end{equation}
+For $E(\rho)$:
+\begin{equation}
+	\begin{aligned}
+		E(\rho)=&r_1 [e_1(r_1|e_1)+e_4(r_1|e_4)] +\\
+		&r_2 e_3 +\\
+		&r_3 e_2 + \\
+		&r_4 [e_1(r_4|e_1)+e_4(r_4|e_4)] \\
+	\end{aligned}
+\end{equation}
+\begin{equation}
+	\begin{aligned}
+		E(\rho)=&r_1 [e_1(r_1|e_1)+e_4(r_1|e_4)] +\\
+		&1/8(1-\nu_-)(1+\nu_+)+\\
+		&-1/8(1+\nu_-)(1-\nu_+)+ \\
+		&r_4 [e_1(r_4|e_1)+e_4(r_4|e_4)] \\
+	\end{aligned}
+\end{equation}
+We should express the eigenvalues of $H$ in terms of the nus maybe.
+Or better we can do the trace multiplication in some smart way.\\
+
+Without Identity:
+\begin{equation}
+	\Tr \left(\sigma_{a} \sigma_{b} \sigma_{c} \sigma_{d}\right)=2\left(\delta_{a b} \delta_{c d}-\delta_{a c} \delta_{b d}+\delta_{a d} \delta_{b c}\right)
+\end{equation}
+\begin{equation}
+	\Tr\left(\sigma_{a} \sigma_{b} \sigma_{c}\right)=2 i \varepsilon_{a b c}
+\end{equation}
+\begin{equation}
+	\Tr\left(\sigma_{a} \sigma_{b}\right)=2 \delta_{a b}
+\end{equation}
+
+$E(\rho)=\Tr[H \rho]$
+
+\begin{equation}
+	\rho_2=\frac{1}{4} [ ( \sigma_1^0 \sigma_2^0 ) -g_{-1} \left(\sigma_1^x \sigma_2^x\right) - g_{1} \left(\sigma_1^y \sigma_2^y\right) + (g_{0}^2-g_1g_{-1}) \left(\sigma_1^z \sigma_2^z\right)+g_0\left(\sigma_1^0 \sigma_2^z+\sigma_1^z \sigma_2^0\right) ] 
+\end{equation}
+\begin{equation}
+	H=-\frac{1}{2} \left(\sigma^{x} \sigma^{x}+\lambda\sigma^{z} \sigma^0+\lambda\sigma^0\sigma^{z}\right) 
+\end{equation}
+
+4 terms: xxxx , yyxx, zzxx  2 for everyone \\
+
+3 terms: 0zxx, z0xx, xxz0, xx0z, yyz0, yy0z, zzz0, zz0z  0 for everyone\\
+
+2 terms 0zz0 0z0z z0z0 z00z 00xx  2 for everyone\\
+
+1 term 00z0 000z =0 for everyone \\
+
+Result, not zero:\\
+xxxx , yyxx, zzxx, 0zz0 0z0z z0z0 z00z 00xx \\
+$-1/4(-g_{-1}-g_1+ g_{0}^2-g_1g_{-1}+ 4g_0 \lambda + 1)$
+
+
+
+
+
+\begin{equation}
+	\left.\left(
+	\begin{array}{cccc}
+		\sqrt{4 \lambda ^2+1}+2 \lambda  & 0 & 0 & 1 \\
+		0 & 1 & 1 & 0 \\
+		0 & -1 & 1 & 0 \\
+		2 \lambda -\sqrt{4 \lambda ^2+1} & 0 & 0 & 1 \\
+	\end{array}
+	\right)\right\}
+\end{equation}
+
+
+\begin{equation}
+	\left(
+	\begin{array}{cccc}
+		\sqrt{4 g_0^2+(g_1-g_{-1})^2}+2 g_0 & 0 & 0 & g_1-g_{-1}  \\
+		0 & -1 & 1 & 0 \\
+		0 & 1 & 1 & 0 \\
+		\sqrt{4 g_0^2+(g_1-g_{-1})^2}-2 g_0 & 0 & 0 & g_1-g_{-1} \\
+	\end{array}
+	\right)
+\end{equation}
+Calling $\alpha=\frac{g_{-1}-g_1}{2g_0}$:
+\begin{equation}
+	\left(
+	\begin{array}{cccc}
+		-\sqrt{1+\alpha^2}-1 & 0 & 0 & \alpha \\
+		0 & -1 & 1 & 0 \\
+		0 & 1 & 1 & 0 \\
+		\sqrt{1+\alpha^2}-1 & 0 & 0 & \alpha \\
+	\end{array}
+	\right)
+\end{equation}
+
+
+Eigenstates in the same order:
+\begin{equation}
+	\left(
+	\begin{array}{cccc}
+		-\frac{\sqrt{4 g_0^2+(g_1-g_{-1})^2}+2 g_0}{g_{-1}-g_1} & 0 & 0 & 1 \\
+		0 & -1 & 1 & 0 \\
+		0 & 1 & 1 & 0 \\
+		-\frac{2 g_0-\sqrt{4 g_0^2+(g_1-g_{-1})^2}}{g_{-1}-g_1} & 0 & 0 & 1 \\
+	\end{array}
+	\right)
+\end{equation}
+
+
+\end{document}

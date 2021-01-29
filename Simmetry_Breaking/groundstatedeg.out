@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.1}{Some definitions}{}% 1
+\BOOKMARK [1][-]{section.2}{The ground state of the Quantum Ising Model}{}% 2
+\BOOKMARK [1][-]{section.3}{Numerical Diagonalization}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Exact Diagonalization}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{DMRG Diagonalization}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{The Quantum-to-Classical mapping}{}% 6
+\BOOKMARK [1][-]{appendix.A}{Spontaneous symmetry breaking in the 2D Ising Model}{}% 7
+\BOOKMARK [2][-]{subsection.A.1}{Mean field Approximation}{appendix.A}% 8
+\BOOKMARK [2][-]{subsection.A.2}{Landau Theory}{appendix.A}% 9
+\BOOKMARK [1][-]{appendix.B}{Simmetry Breaking in the Quantum Ising model \(notes to improve\)}{}% 10

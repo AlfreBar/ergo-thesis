@@ -1,0 +1,58 @@
+\begin{thebibliography}{DCRRM08}
+
+\bibitem[ABN04]{allahverdyan2004maximal}
+A.~E. Allahverdyan, R.~Balian, and Th.~M. Nieuwenhuizen.
+\newblock Maximal work extraction from quantum systems, 2004.
+
+\bibitem[arp]{arpack}
+https://www.caam.rice.edu/software/arpack/.
+
+\bibitem[CP01]{Chung_2001}
+Ming-Chiang Chung and Ingo Peschel.
+\newblock Density-matrix spectra of solvable fermionic systems.
+\newblock {\em Physical Review B}, 64(6), Jul 2001.
+
+\bibitem[DCRRM08]{De_Chiara_2008}
+Gabriele De~Chiara, Matteo Rizzi, Davide Rossini, and Simone Montangero.
+\newblock Density matrix renormalization group for dummies.
+\newblock {\em Journal of Computational and Theoretical Nanoscience},
+  5(7):1277–1288, Jul 2008.
+
+\bibitem[Hua87]{Huang_1987}
+Kerson Huang.
+\newblock {\em Statistical Mechanics}.
+\newblock John Wiley \& Sons, 2 edition, 1987.
+
+\bibitem[JSIK07]{Jaegon_2007}
+Jaegon Jaegon, Sung-Ik Sung-Ik, and Beom Kim.
+\newblock Quantum phase transition and finite-size scaling of the
+  one-dimensional ising model.
+\newblock {\em Journal of The Korean Physical Society - J KOREAN PHYS SOC}, 50,
+  01 2007.
+
+\bibitem[LRV03]{latorre2003ground}
+J.~I. Latorre, E.~Rico, and G.~Vidal.
+\newblock Ground state entanglement in quantum spin chains, 2003.
+
+\bibitem[Sac11]{sachdev_2011}
+Subir Sachdev.
+\newblock {\em Quantum Phase Transitions}.
+\newblock Cambridge University Press, 2 edition, 2011.
+
+\bibitem[Whi92]{PhysRevLett.69.2863}
+Steven~R. White.
+\newblock Density matrix formulation for quantum renormalization groups.
+\newblock {\em Phys. Rev. Lett.}, 69:2863--2866, Nov 1992.
+
+\bibitem[Yan52]{PhysRev.85.808}
+C.~N. Yang.
+\newblock The spontaneous magnetization of a two-dimensional ising model.
+\newblock {\em Phys. Rev.}, 85:808--816, Mar 1952.
+
+\bibitem[YL52]{PhysRev.87.404}
+C.~N. Yang and T.~D. Lee.
+\newblock Statistical theory of equations of state and phase transitions. i.
+  theory of condensation.
+\newblock {\em Phys. Rev.}, 87:404--409, Aug 1952.
+
+\end{thebibliography}

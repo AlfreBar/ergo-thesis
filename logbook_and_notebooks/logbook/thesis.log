@@ -1,0 +1,376 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.20)  19 NOV 2020 18:09
+entering extended mode
+**./thesis.tex
+(thesis.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-08-07>
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@chapter=\count169
+\c@section=\count170
+\c@subsection=\count171
+\c@subsubsection=\count172
+\c@paragraph=\count173
+\c@subparagraph=\count174
+\c@figure=\count175
+\c@table=\count176
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen135
+))
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen136
+)
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count177
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count178
+\leftroot@=\count179
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count180
+\DOTSCASE@=\count181
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen137
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count182
+\c@MaxMatrixCols=\count183
+\dotsspace@=\muskip16
+\c@parentequation=\count184
+\dspbrk@lvl=\count185
+\tag@help=\toks18
+\row@=\count186
+\column@=\count187
+\maxfields@=\count188
+\andhelp@=\toks19
+\eqnshift@=\dimen138
+\alignsep@=\dimen139
+\tagshift@=\dimen140
+\tagwidth@=\dimen141
+\totwidth@=\dimen142
+\lineht@=\dimen143
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+) (C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/physics\physics.sty
+Package: physics 
+
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2020-08-07 L3 programming layer (loader) 
+
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+mode.def
+File: l3backend-pdfmode.def 2020-08-07 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count189
+\l__pdf_internal_box=\box47
+))
+Package: xparse 2020-05-15 L3 Experimental document command parser
+
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e-generic.tex
+\l__xparse_current_arg_int=\count190
+\g__xparse_grabber_int=\count191
+\l__xparse_m_args_int=\count192
+\l__xparse_v_nesting_int=\count193
+)))
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/05/30 v3.4k Customizing captions (AR)
+
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/07/20 v1.12b caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen146
+\captionmargin@=\dimen147
+\captionwidth=\dimen148
+\caption@tempdima=\dimen149
+\caption@indent=\dimen150
+\caption@parindent=\dimen151
+\caption@hangindent=\dimen152
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count194
+\c@continuedfloat=\count195
+)
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+\c@subfigure=\count196
+\c@subtable=\count197
+) (C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/graphics\epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen153
+\epsfysize=\dimen154
+)
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+) (thesis.aux)
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count198
+\scratchdimen=\dimen155
+\scratchbox=\box48
+\nofMPsegments=\count199
+\nofMParguments=\count266
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen156
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
+\everyMPtoPDFconversion=\toks24
+)
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 23.
+
+
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
+
+
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 23
+.
+
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+) [1
+
+{C:/Users/alfre/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (thesis.toc)
+\tf@toc=\write4
+\openout4 = `thesis.toc'.
+
+ [1
+
+]
+Chapter 1.
+[2
+
+]
+Chapter 2.
+[3
+
+]
+Chapter 3.
+[4
+
+]
+Chapter 4.
+[5
+
+]
+<g0.png, id=23, 433.62pt x 289.08pt>
+File: g0.png Graphic file (type png)
+<use g0.png>
+Package pdftex.def Info: g0.png  used on input line 66.
+(pdftex.def)             Requested size: 272.99881pt x 182.00667pt.
+<L1_lambda.png, id=25, 433.62pt x 289.08pt>
+File: L1_lambda.png Graphic file (type png)
+<use L1_lambda.png>
+Package pdftex.def Info: L1_lambda.png  used on input line 72.
+(pdftex.def)             Requested size: 272.99881pt x 182.00667pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Font Info:    Trying to load font information for U+euf on input line 81.
+
+(C:\Users\alfre\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+)
+[6
+
+ <./g0.png>]
+<one_site_secdev.png, id=38, 433.62pt x 289.08pt>
+File: one_site_secdev.png Graphic file (type png)
+<use one_site_secdev.png>
+Package pdftex.def Info: one_site_secdev.png  used on input line 96.
+(pdftex.def)             Requested size: 272.99881pt x 182.00667pt.
+ [7 <./L1_lambda.png> <./one_site_secdev.png>]
+<nuplot.png, id=45, 433.62pt x 289.08pt>
+File: nuplot.png Graphic file (type png)
+<use nuplot.png>
+Package pdftex.def Info: nuplot.png  used on input line 110.
+(pdftex.def)             Requested size: 272.99881pt x 182.00667pt.
+<two_site_theo.png, id=46, 722.7pt x 722.7pt>
+File: two_site_theo.png Graphic file (type png)
+<use two_site_theo.png>
+Package pdftex.def Info: two_site_theo.png  used on input line 126.
+(pdftex.def)             Requested size: 272.99881pt x 272.99678pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8 <./nuplot.png>]
+<2_site_ergo_theo.png, id=51, 433.62pt x 289.08pt>
+File: 2_site_ergo_theo.png Graphic file (type png)
+<use 2_site_ergo_theo.png>
+Package pdftex.def Info: 2_site_ergo_theo.png  used on input line 163.
+(pdftex.def)             Requested size: 272.99881pt x 182.00667pt.
+<2_site_ergo_theo_secdev.png, id=52, 433.62pt x 289.08pt>
+File: 2_site_ergo_theo_secdev.png Graphic file (type png)
+<use 2_site_ergo_theo_secdev.png>
+Package pdftex.def Info: 2_site_ergo_theo_secdev.png  used on input line 169.
+(pdftex.def)             Requested size: 272.99881pt x 182.00667pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9 <./two_site_theo.png>] [10 <./2_site_ergo_theo.png> <./2_site_ergo_theo_secd
+ev.png>] [11
+
+]
+Chapter 5.
+[12
+
+]
+Chapter 6.
+[13
+
+] (thesis.aux) ) 
+Here is how much of TeX's memory you used:
+ 4840 strings out of 481212
+ 75961 string characters out of 2905973
+ 321638 words of memory out of 3000000
+ 20377 multiletter control sequences out of 15000+200000
+ 546138 words of font info for 75 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,8n,43p,332b,295s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\alfre\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/
+ec/dpi600\tcrm1200.pk><C:/Users/alfre/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmbx12.pfb><C:/Users/alfre/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/alfre/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/alfre/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/alfre/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/alfr
+e/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Us
+ers/alfre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb
+><C:/Users/alfre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+msy10.pfb><C:/Users/alfre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmsy8.pfb><C:/Users/alfre/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/euler/eufm10.pfb>
+Output written on thesis.pdf (14 pages, 215140 bytes).
+PDF statistics:
+ 108 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+

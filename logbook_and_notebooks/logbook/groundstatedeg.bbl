@@ -1,0 +1,24 @@
+\begin{thebibliography}{Yan52}
+
+\bibitem[Hua87]{Huang_1987}
+Kerson Huang.
+\newblock {\em Statistical Mechanics}.
+\newblock John Wiley \& Sons, 2 edition, 1987.
+
+\bibitem[Sac11]{sachdev_2011}
+Subir Sachdev.
+\newblock {\em Quantum Phase Transitions}.
+\newblock Cambridge University Press, 2 edition, 2011.
+
+\bibitem[Yan52]{PhysRev.85.808}
+C.~N. Yang.
+\newblock The spontaneous magnetization of a two-dimensional ising model.
+\newblock {\em Phys. Rev.}, 85:808--816, Mar 1952.
+
+\bibitem[YL52]{PhysRev.87.404}
+C.~N. Yang and T.~D. Lee.
+\newblock Statistical theory of equations of state and phase transitions. i.
+  theory of condensation.
+\newblock {\em Phys. Rev.}, 87:404--409, Aug 1952.
+
+\end{thebibliography}

@@ -1,0 +1,37 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{DCRRM08}
+
+\bibitem[DCRRM08]{De_Chiara_2008}
+Gabriele De~Chiara, Matteo Rizzi, Davide Rossini, and Simone Montangero.
+\newblock Density matrix renormalization group for dummies.
+\newblock {\em Journal of Computational and Theoretical Nanoscience},
+  5(7):1277–1288, Jul 2008.
+
+\bibitem[Hua87]{Huang_1987}
+Kerson Huang.
+\newblock {\em Statistical Mechanics}.
+\newblock John Wiley \& Sons, 2 edition, 1987.
+
+\bibitem[Lan50]{Lanczos:1950}
+Cornelius Lanczos.
+\newblock {An iteration method for the solution of the eigenvalue problem of
+  linear differential and integral operators}.
+\newblock {\em J. Res. Natl. Bur. Stand. B}, 45:255--282, 1950.
+
+\bibitem[RLMB{\etalchar{+}}12]{Rodr_guez_Laguna_2012}
+Javier Rodríguez-Laguna, Piotr Migdał, Miguel~Ibáñez Berganza, Maciej
+  Lewenstein, and Germán Sierra.
+\newblock Qubism: self-similar visualization of many-body wavefunctions.
+\newblock {\em New Journal of Physics}, 14(5):053028, May 2012.
+
+\bibitem[Sac11]{sachdev_2011}
+Subir Sachdev.
+\newblock {\em Quantum Phase Transitions}.
+\newblock Cambridge University Press, 2 edition, 2011.
+
+\bibitem[Yan52]{PhysRev.85.808}
+C.~N. Yang.
+\newblock The spontaneous magnetization of a two-dimensional ising model.
+\newblock {\em Phys. Rev.}, 85:808--816, Mar 1952.
+
+\end{thebibliography}
